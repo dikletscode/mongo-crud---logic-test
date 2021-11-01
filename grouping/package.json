@@ -1,0 +1,13 @@
+{
+  "name": "test_mgi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grouping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
